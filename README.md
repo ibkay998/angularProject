@@ -1,6 +1,6 @@
 # AngularRoutingPractice
 This is a simple Angular project that has authentication enabled on the front end only no backend implementation yet. 
-It shows simple routing practices.
+It shows simple routing practices and more.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.3.
 
